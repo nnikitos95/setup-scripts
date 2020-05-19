@@ -12,4 +12,5 @@ git config --global alias.cmt commit
 git config --global alias.st status
 git config --global alias.pl pull
 git config --global alias.ph push
+git config --global alias.ctb 'checkout -b'
 echo 'Done'

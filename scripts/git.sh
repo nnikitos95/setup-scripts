@@ -13,4 +13,5 @@ git config --global alias.st status
 git config --global alias.pl pull
 git config --global alias.ph push
 git config --global alias.ctb 'checkout -b'
+git config --global alias.mg merge
 echo 'Done'
